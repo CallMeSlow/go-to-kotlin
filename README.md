@@ -1,2 +1,2 @@
 # go-to-kotlin
-通过kotlin之路
+通往kotlin之路
